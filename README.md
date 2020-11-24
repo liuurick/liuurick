@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: liuurick@gmail.com
 -->
+
+[![lb's github stats](https://github-readme-stats.vercel.app/api?username=liuurick)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
